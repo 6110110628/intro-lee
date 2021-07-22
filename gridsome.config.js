@@ -5,7 +5,9 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Gridsome',
-  plugins: []
+  siteName: 'Get To Know',
+  siteUrl: 'https://6110110628.github.io',
+  pathPrefix: '/intro-lee',
+  plugins: [],
   
 }
